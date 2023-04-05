@@ -1,4 +1,4 @@
-# pascal.vent (описание)
+# pascal.vent https://arti-set-dev.github.io/pascal.vent/
 
 адаптивный сайт, разработанный на чистом javascript, с использованием таких технологий как: gulp, webpack, scss, js.
 
